@@ -7,11 +7,19 @@ project-based learning track (Sprint 0 - Sprint 3).
 - **Class:** MCA-A-2025-26
 - **Subject:** Web Development
 
+## Run locally
+
+```bash
+git clone https://github.com/Jeffin03/kjit-ecp-demo-portfolio.git
+cd kjit-ecp-demo-portfolio
+python3 -m http.server 8080
+```
+
 ## Sprints
 
 | Sprint | Deliverable | Status |
 |--------|-------------|--------|
 | 0 | Abstract + repository | done |
-| 1 | Responsive layout | in progress |
-| 2 | Content sections | pending |
-| 3 | Interaction + deployment | pending |
+| 1 | Responsive layout | done |
+| 2 | Content sections | done |
+| 3 | Interaction + deployment | done |
